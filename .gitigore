@@ -1,0 +1,9 @@
+
+.venv/
+__pycache__/
+*.pyc
+campusconnect.db
+app_backup.py
+app_before_calendar_redesign.py
+app_before_reminders.py
+test_reminders.py
